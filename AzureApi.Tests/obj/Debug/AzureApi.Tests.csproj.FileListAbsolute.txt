@@ -14,11 +14,8 @@ D:\Testing\Mostafa\AzureApi\AzureApi.Tests\bin\Debug\AzureApi.Tests.dll
 D:\Testing\Mostafa\AzureApi\AzureApi.Tests\bin\Debug\AzureApi.Tests.pdb
 D:\Testing\Mostafa\AzureApi\AzureApi.Tests\bin\Debug\AzureApi.dll
 D:\Testing\Mostafa\AzureApi\AzureApi.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\Testing\Mostafa\AzureApi\AzureApi.Tests\bin\Debug\WebActivatorEx.dll
-D:\Testing\Mostafa\AzureApi\AzureApi.Tests\bin\Debug\Swashbuckle.Core.dll
 D:\Testing\Mostafa\AzureApi\AzureApi.Tests\bin\Debug\System.Web.Http.dll
 D:\Testing\Mostafa\AzureApi\AzureApi.Tests\bin\Debug\System.Web.Http.WebHost.dll
-D:\Testing\Mostafa\AzureApi\AzureApi.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
 D:\Testing\Mostafa\AzureApi\AzureApi.Tests\bin\Debug\Newtonsoft.Json.dll
 D:\Testing\Mostafa\AzureApi\AzureApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
 D:\Testing\Mostafa\AzureApi\AzureApi.Tests\bin\Debug\AzureApi.pdb
@@ -31,3 +28,4 @@ D:\Testing\Mostafa\AzureApi\AzureApi.Tests\obj\Debug\AzureApi.Tests.csprojResolv
 D:\Testing\Mostafa\AzureApi\AzureApi.Tests\obj\Debug\AzureApi.Tests.dll
 D:\Testing\Mostafa\AzureApi\AzureApi.Tests\obj\Debug\AzureApi.Tests.pdb
 D:\Testing\Mostafa\AzureApi\AzureApi.Tests\bin\Debug\AzureApi.Tests.dll.config
+D:\Testing\Mostafa\AzureApi\AzureApi.Tests\bin\Debug\ApplicationInsights.config
