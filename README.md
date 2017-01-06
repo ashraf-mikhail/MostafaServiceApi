@@ -1,4 +1,4 @@
-# what I've done:
+# What I've done:
 ### changed the algorithm for the Fibo, I used the fast doubling algorithm, check [here](https://www.nayuki.io/page/fast-fibonacci-algorithms) for details
 ### I fixed a few bugs
 
